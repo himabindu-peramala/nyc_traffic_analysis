@@ -1,0 +1,9 @@
+.venv/
+*.csv
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+Project_Report.*
+Project Report.docx
+~ Report.docx
+NYC_Collision_Analysis.pdf
